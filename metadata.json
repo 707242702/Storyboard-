@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Video Storyboard AI",
+  "description": "An AI-powered tool that automatically generates professional storyboards from video clips, identifying key scenes, camera shots, and visual actions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
